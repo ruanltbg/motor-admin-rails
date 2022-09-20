@@ -1,4 +1,4 @@
-pt:
+pt-BR:
   motor:
     action_has_been_applied: "A ação foi aplicada!"
     action_has_failed_with_code: "A ação falhou com o código"
@@ -102,7 +102,7 @@ pt:
     field_value_does_not_match_pattern: "%{field} valor não corresponde %{pattern}"
     file: "Arquivo"
     filters: "Filtros"
-    foreign_key: "Foreign key"
+    foreign_key: "Chave extrangeira"
     form: "Formulário"
     form_has_been_saved: "O formulário foi salvo!"
     form_has_been_submitted_successfully: "O formulário foi enviado com sucesso!"
@@ -279,7 +279,7 @@ pt:
     semicolon: Ponto-e-vírgula
     hyphen: Hífen
     comma: Vírgula
-    slash: Slash
+    slash: Barra
     sql: SQL
     api: API
     searchable_columns: Colunas pesquisáveis
@@ -300,15 +300,15 @@ pt:
     action_has_been_removed: Esta ação foi removida
     html: HTML
     edit_html: Edit HTML
-    there_are_unsaved_changes_close_form: "There are unsaved changes. Close form?"
-    send_file_url: Send file URL
-    rating: Rating
+    there_are_unsaved_changes_close_form: Algumas alterações não foram salvas. Deseja fechar o formulário?
+    send_file_url: Enviar url do arquivo
+    rating: Notas
     total: Total
-    radar_chart: Radar chart
-    show_on_table: Show on table
-    map: Map
+    radar_chart: Grafico de radar
+    show_on_table: Mostrar em tabela Show on table
+    map: Mapa
     i:
-      locale: pt
+      locale: pt-BR
       select:
         placeholder: Selecionar
         noMatch: Sem correspondências
